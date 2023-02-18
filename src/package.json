@@ -1,0 +1,15 @@
+{
+  "name": "mst-select-field-with-reference",
+  "version": "1.0.0",
+  "description": "Ready solution using mobx state tree and material ui for dynamic select and textfield fields",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.1",
+    "mobx": "latest",
+    "mobx-react": "latest",
+    "mobx-state-tree": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
